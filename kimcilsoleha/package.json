@@ -1,6 +1,6 @@
 {
   "name": "kimcilsoleha",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -61,7 +61,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chossopian/kimcilsoleha.git"
+    "url": "https://github.com/chossopian/kimcilsoleha"
   },
   "author": "",
   "license": "ISC",
